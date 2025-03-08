@@ -1,0 +1,8 @@
+[
+  {
+    "name": "privateregistry",
+    "imageUri":"890742561471.dkr.ecr.us-east-1.amazonaws.com/privateregistry:latest"
+  }
+]
+
+
